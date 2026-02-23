@@ -1,69 +1,40 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+# 🏠 Home Furnishing Page
 
-##  Home Furnishing Page 
+## 📖 Description
+Home Furnishing Page is a responsive web page project built using **HTML and CSS**.  
+The goal of this project is to recreate a given home furnishing layout while practicing **CSS Flexbox** and fundamental styling concepts.
 
-## Description
-Project aims to create the same of given page (home furnishing page).
+## 🚀 Demo
 
-## Problem Statement
+### 🎬 Project Preview
+![Home Furnishing Project](./images/project.gif)
 
-- Your company has recently started on a project that aims to create their web page. So you and your colleagues have started to work on the project.
+### 🌐 Live Demo
+👉 https://nursaadet.github.io/flex-project/
 
-## Project Skeleton 
+## 📂 Project Structure
 
-```
-003-flex-project (folder)
-|
-|----readme.md         # Given to the students (Definition of the project)          
-|----images               
-|----index.html  
-|----style.css
-```
-
-## Expected Outcome
-
-![Home Furnishing Project](./images/home.gif)
-
-## Objective
-
-Build a page that is functionally similar to this: [Home Furnishing Project](https://nursaadet.github.io/flex-project/)
-
-### At the end of the project, following topics are to be covered;
-
-- HTML 
-- Css
-  - List Properties
-  - The Display Property
-  - The position Property
-  - Opacity / Transparency
-  - Units in CSS
-  - CSS Setting height and width
-  - CSS Outline
-  - CSS Combinators
-  - CSS Flex
+Flex-project
+│
+├── README.md
+├── flex.css
+├── style.css
+├── index.html
+└── images/
 
 
-### At the end of the project, students will be able to;
+## 🎯 Objectives
 
-- improve coding skills within HTML & CSS
+- Recreate the given Home Furnishing layout
+- Practice modern CSS layout techniques
+- Improve HTML & CSS coding skills
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+## 🛠️ Technologies
+- HTML
+- CSS (Flexbox)
 
-## Steps to Solution
-  
-- Step 1: Download or clone project repo on Github 
-
-- Step 2: Create project folder for local public repo on your pc
-
-- Step 3: Create Home Furnishing Project
-
-
-## Notes
-
-- You can use HTML,and CSS to complete this project.
-
-## Resources
-
--  [Images](./images)
+## 🎯 What I Practiced
+- Flexbox layout
+- CSS positioning and display
+- Page structure with HTML
 
